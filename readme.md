@@ -7,7 +7,7 @@
 ```puml
 @startuml
 
-!include https://github.com/skomposzczet/one-dark-plantuml-theme.git
+!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.1/theme.puml
 
 Bob->Alice : hello
 
